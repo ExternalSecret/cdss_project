@@ -95,12 +95,12 @@
     <div class="container">
         <div class="content">
             <h2>About Us</h2>
-            <p>Welcome to the Clinical Decision Support System (CDSS). Our mission is to provide healthcare professionals with the tools they need to make better clinical decisions. Our system integrates clinical knowledge, patient information, and other health-related data to enhance decision-making and improve patient outcomes. The rationale underlying the proposed CDSS project is rooted in the imperative to address critical challenges confronting modern healthcare delivery. By equipping healthcare providers with sophisticated decision-making tools, the CDSS aims to mitigate the risk of medical errors, reduce variability in clinical practice, and optimize patient outcomes. Moreover, the implementation of such a system aligns with strategic imperatives aimed at enhancing the quality, safety, and efficiency of healthcare services.
+            <p>Welcome to the Clinical Decision Support System (CDSS). My mission is to provide healthcare professionals with the tools they need to make better clinical decisions. My system integrates clinical knowledge, patient information, and other health-related data to enhance decision-making and improve patient outcomes. The rationale underlying the proposed CDSS project is rooted in the imperative to address critical challenges confronting modern healthcare delivery. By equipping healthcare providers with sophisticated decision-making tools, the CDSS aims to mitigate the risk of medical errors, reduce variability in clinical practice, and optimize patient outcomes. Moreover, the implementation of such a system aligns with strategic imperatives aimed at enhancing the quality, safety, and efficiency of healthcare services.
 The CDSS relies heavily on accurate and comprehensive patient data. This includes medical history, laboratory results, diagnostic tests, medications, allergies, and any other relevant information. Without reliable data, the system's recommendations may be flawed or incorrect.For the CDSS to access relevant patient data, it needs to be able to interface with various healthcare information systems such as Electronic Health Records (EHR), Laboratory Information Systems (LIS), and Radiology Information Systems (RIS). Interoperability ensures seamless data exchange between different systems.
 </p>
             
             <h3>The Vision</h3>
-            <p>Our vision is to transform healthcare by providing innovative, evidence-based decision support solutions that empower healthcare providers and improve patient care. Unlike existing CDSS solutions that may be cumbersome to use or lack integration with EHR systems, our solution will prioritize usability and interoperability. By leveraging advanced technologies and focusing on user experience, we aim to address the limitations of existing solutions and provide a more effective tool for healthcare providers.our system offers several key improvements enhanced accuracy and reliability through advanced algorithms and predictive analytics, user-friendly interface designed with input from healthcare professionals to optimize usability and efficiency.
+            <p>The vision is to transform healthcare by providing innovative, evidence-based decision support solutions that empower healthcare providers and improve patient care. Unlike existing CDSS solutions that may be cumbersome to use or lack integration with EHR systems, my solution will prioritize usability and interoperability. By leveraging advanced technologies and focusing on user experience, I aim to address the limitations of existing solutions and provide a more effective tool for healthcare providers. My system offers several key improvements enhanced accuracy and reliability through advanced algorithms and predictive analytics, user-friendly interface designed with input from healthcare professionals to optimize usability and efficiency.
 The CDSS will encompass a suite of features designed to address the diverse needs of healthcare providers across various clinical settings. These features relatively include:
 <br> Decision Support: Provision of contextually relevant recommendations and alerts based on patient-specific data, clinical guidelines, and best practices.
 <br> Medication Management: Identification of potential drug interactions, allergies, and dosage errors to optimize medication prescribing and administration.
@@ -108,26 +108,16 @@ The CDSS will encompass a suite of features designed to address the diverse need
 <br> Quality Improvement: Promotion of adherence to clinical protocols and guidelines, thereby enhancing the quality and consistency of care delivery.
 </p>
             
-            <h3>Our Team</h3>
+            <h3>The Team</h3>
             <div class="team">
                 
                 <div class="member">
                     <img src="images/Capture11.PNG" alt="Team Member 1">
                     <h4>Joseph Okpetu</h4>
                     <p>Lead Software Engineer</p>
-                </div>
-                <div class="member">
-                    <img src="images/Capture10.PNG" alt="Team Member 2">
-                    <h4>Dr. John Doe (doesnt exist)</h4>
-                    <p>Chief Medical Officer</p>
-                </div>
-                <div class="member">
-                    <img src="images/Capture10.PNG" alt="Team Member 3">
-                    <h4>Emily Johnson (also doesn't exist)</h4>
-                    <p>Data Scientist</p>
+                    <br> (Just me so far).
                 </div>
             </div>
-            
             <h3>Contact Us</h3>
             <p>If you have any questions or would like to learn more about our CDSS, please feel free to <a href="/help_support/support_contact">contact us</a>.</p>
         </div>

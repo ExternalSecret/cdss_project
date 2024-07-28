@@ -62,12 +62,12 @@
         }
 
         .card {
-            background-color: olivedrab;
-            opacity: 50%;
+            background: linear-gradient(to right, skyblue, green);
+            opacity: 80%;
             color: black;
-            width: 450px;
-            height: 500px;
-            margin: 6em;
+            width: 250px;
+            height: 300px;
+            margin: 4em;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -109,7 +109,7 @@
             <a href="/help_support/support_contact">Contact Us</a>
         </div>
         <div class="card" id="user-manuals">
-            <a href="/help_support/user_manuals">User Manuals</a>
+            <a href="/help_support/user_manual">User Manuals</a>
         </div>
     </div>
 </div>

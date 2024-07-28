@@ -44,6 +44,7 @@
             @endforeach
         </tbody>
     </table>
+    <a href="{{ route('cdss_toolkit.index') }}" class="btn cdss-toolkit-button">CDSS Toolkit</a>
     <a href="{{ route('patients.create') }}" class="btn btn-success" style="position: fixed; bottom: 10px; left: 10px;">Create New</a>
 </div>
 
@@ -121,6 +122,21 @@
 
     .btn-success:hover {
         background-color: #218838;
+    }
+
+    .cdss-toolkit-button {
+        position: fixed;
+        bottom: 10px;
+        left: calc(10px + 2.5in); /* 1 inch to the right of the 'Create New' button */
+        display: inline-block;
+        width: 2in; /* 2 inches wide */
+        padding: 10px;
+        background: linear-gradient(to right, green, skyblue); /* Gradient color */
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
     }
 </style>
 @endsection

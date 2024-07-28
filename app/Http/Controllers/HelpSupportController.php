@@ -25,4 +25,9 @@ class HelpSupportController extends Controller
     {
         return view('help_support/support_contact');
     }
+
+    public function user_manual()
+    {
+        return view('help_support/user_manual');
+    }
 }
